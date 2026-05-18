@@ -1,0 +1,22 @@
+[
+  {
+    "severity": "INFO",
+    "title": "Root MFA is Enabled",
+    "status": "PASS"
+  },
+  {
+    "severity": "CRITICAL",
+    "title": "No password policy exists on this account",
+    "status": "FAIL"
+  },
+  {
+    "severity": "CRITICAL",
+    "title": "Bucket elasticbeanstalk-us-east-1-886375649091 has public ACLs enabled",
+    "status": "FAIL"
+  },
+  {
+    "severity": "CRITICAL",
+    "title": "Security Group sg-0fb4dcb5b11283eba has port 22 open to the World",
+    "status": "FAIL"
+  }
+]
