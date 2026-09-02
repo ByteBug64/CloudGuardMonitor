@@ -1,5 +1,7 @@
 CloudGuardMonitor
-Most AWS breaches happen because of simple misconfigurations, not sophisticated attacks. CloudGuardMonitor scans your AWS account for the most common ones and reports what it finds.
+
+Most AWS breaches happen because of simple misconfigurations, not sophisticated attacks. CloudGuardMonitor scans your 
+AWS account for the most common ones and reports what it finds.
 
 What It Checks
 IAM
